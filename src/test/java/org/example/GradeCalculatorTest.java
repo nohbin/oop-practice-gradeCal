@@ -7,6 +7,6 @@ package org.example;
 * */
 public class GradeCalculatorTest {
     //학점계산기 도메인 : 이수한 과목 , 학점 계산기
-
+dd
 
 }
